@@ -1,1 +1,1 @@
-# Covid_System
+This is a System developed for a College Project. This system keeps a Database of Nearby Hospitals and the user has to buy a small equiptment which measures user's temp and uploads to gsheets. And then, the system analyses and sends mail to nearest hospital with available beds and oxygen tanks and requests dispatch of Ambulance to user's location
