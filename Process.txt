@@ -1,0 +1,35 @@
+1. Connect to Database
+2. Read From Google Sheets
+3. Analyze the Data
+4. Use DMBS
+5. Mail Send
+
+
+1. Connect to Database
+    1. Import psycopg2
+    2. Use Try() method
+    3. If connection successful, Forward the system to Step 2
+
+2. Read From Google Sheets
+    1. Called by ________.
+    2. Use the API
+    3. Extract Data
+    4. Store it in Variables
+    5. Data Goes to Analyze Data Function
+
+3. Analyze the Data
+    1. Function for this.
+    2. Data comes from Google Sheets.
+    3. Data Goes to DBMS
+    4. Multiple Logics related to Temp and SpO2 Levels
+
+4. Use DBMS
+    1. Control Comes From Analyze Data Function
+    2. Sort the DB on basis of Distance and Oxy Availability
+    3. Data Goes to Mail Send
+
+5. Whatsapp Message Send
+    1. Called by DBMS
+    2. Use API
+    3. Send messages to Kin, Hospital and Personal Physician.
+    4. Alert Issued to the User

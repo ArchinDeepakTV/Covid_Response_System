@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1 style="colour:SlateGray;">HOSPITAL NAME : ${PERSON_NAME},</h1>
+        A Person is showing COVID symptoms<br>
+        Person's Body Conditions Sent Below<br><br>
+        BODY TEMPERATURE: ${TEMP}<br>
+        PULSE RATE: ${PULSE_RATE}<br>
+        SpO2 LEVEL: ${SPO2}<br>
+        <br>
+        PLEASE SEND AN AMBULANCE TO THE PERSON'S LOCATION<br>
+        <br><br>
+        Yours Truly<br>
+        COVID SYSTEM<br>
+    </body>
+</html>
+

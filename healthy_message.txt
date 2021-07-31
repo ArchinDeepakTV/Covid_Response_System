@@ -1,0 +1,7 @@
+Dear ${PERSON_NAME},
+
+Patient is NOT showing COVID symptoms
+Patient's Observed Body Conditions are all within normal conditions.
+
+Yours Truly
+Covid System
